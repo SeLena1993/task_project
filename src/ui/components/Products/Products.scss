@@ -1,0 +1,15 @@
+.productsWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.productsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.productsCatalog {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 800px;
+}
